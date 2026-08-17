@@ -75,39 +75,27 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🌴 Edge AI Palm Oil Grading</h3>
-      <p align="center">
-        <a href="https://github.com/felichpehagasaginting-code/Edge_AI_PalmOil">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=felichpehagasaginting-code&repo=Edge_AI_PalmOil&theme=material-palenight&border_color=C4D696&bg_color=FAFFEB&title_color=556B14&icon_color=6B881F&text_color=55554E" width="100%" />
-        </a>
-      </p>
+    <td width="50%" valign="top">
+      <h3>🌴 <a href="https://github.com/felichpehagasaginting-code/Edge_AI_PalmOil">Edge_AI_PalmOil</a></h3>
+      <p>Edge AI Palm Oil grading system using <b>MAX78000 CNN</b>, ESP-12E gateway (MQTT/LoRa failover), and TimescaleDB analytics.</p>
+      <img src="https://img.shields.io/badge/Stack-Python_•_C++_•_IoT-556B14?style=flat-square" alt="Stack" />
     </td>
-    <td width="50%">
-      <h3 align="center">🚜 Estate Harvest Rotation Planner</h3>
-      <p align="center">
-        <a href="https://github.com/felichpehagasaginting-code/Estate-Harvest-Rotation-Planner">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=felichpehagasaginting-code&repo=Estate-Harvest-Rotation-Planner&theme=material-palenight&border_color=C4D696&bg_color=FAFFEB&title_color=556B14&icon_color=6B881F&text_color=55554E" width="100%" />
-        </a>
-      </p>
+    <td width="50%" valign="top">
+      <h3>🚜 <a href="https://github.com/felichpehagasaginting-code/Estate-Harvest-Rotation-Planner">Estate-Harvest-Rotation-Planner</a></h3>
+      <p>Data-driven FFB harvest rotation priority system for oil palm estates, converting manual intuition into automated scheduling.</p>
+      <img src="https://img.shields.io/badge/Stack-Flutter_•_Dart_•_Mobile-6B881F?style=flat-square" alt="Stack" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">💻 Pemrograman TRPL</h3>
-      <p align="center">
-        <a href="https://github.com/felichpehagasaginting-code/PemrogramanTRPL">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=felichpehagasaginting-code&repo=PemrogramanTRPL&theme=material-palenight&border_color=C4D696&bg_color=FAFFEB&title_color=556B14&icon_color=6B881F&text_color=55554E" width="100%" />
-        </a>
-      </p>
+    <td width="50%" valign="top">
+      <h3>💻 <a href="https://github.com/felichpehagasaginting-code/PemrogramanTRPL">PemrogramanTRPL</a></h3>
+      <p>Interactive code learning platform featuring live Python execution, quizzes, gamification badges, and leaderboards.</p>
+      <img src="https://img.shields.io/badge/Stack-Next.js_16_•_TypeScript-4A5D12?style=flat-square" alt="Stack" />
     </td>
-    <td width="50%">
-      <h3 align="center">⚡ Flight Tracker</h3>
-      <p align="center">
-        <a href="https://github.com/felichpehagasaginting-code/FlightTracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=felichpehagasaginting-code&repo=FlightTracker&theme=material-palenight&border_color=C4D696&bg_color=FAFFEB&title_color=556B14&icon_color=6B881F&text_color=55554E" width="100%" />
-        </a>
-      </p>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/felichpehagasaginting-code/FlightTracker">FlightTracker</a></h3>
+      <p>Automated real-time flight ticket price monitor (Medan KNO ➔ Jakarta CGK) with Playwright scraping & Telegram alerts.</p>
+      <img src="https://img.shields.io/badge/Stack-JavaScript_•_Playwright-8AA82A?style=flat-square" alt="Stack" />
     </td>
   </tr>
 </table>
@@ -117,9 +105,8 @@
 ## 🌿 Activity & Metrics
 
 <div align="center">
-  <!-- GitHub Stats & Top Langs in Vanilla Matcha Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=felichpehagasaginting-code&show_icons=true&hide_border=false&border_radius=10&border_color=C4D696&title_color=556B14&icon_color=6B881F&text_color=55554E&bg_color=FAFFEB" width="48.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felichpehagasaginting-code&layout=compact&hide_border=false&border_radius=10&border_color=C4D696&title_color=556B14&text_color=55554E&bg_color=FAFFEB" width="48.5%" />
+  <!-- Dynamic Streak Stats Card (Matcha Olive Theme) -->
+  <img src="https://streak-stats.demolab.com?user=felichpehagasaginting-code&theme=transparent&border=C4D696&ring=6B881F&fire=6B881F&currStreakLabel=556B14&currStreakNum=556B14&sideNums=55554E&sideLabels=55554E&dates=737373" width="98%" alt="GitHub Streak" />
 </div>
 
 <br/>
