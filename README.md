@@ -102,11 +102,11 @@
 
 ---
 
-## 🌿 Activity & Metrics
+## 🌿 Activity & Contribution Pulse
 
 <div align="center">
-  <!-- Dynamic Streak Stats Card (Matcha Olive Theme) -->
-  <img src="https://streak-stats.demolab.com?user=felichpehagasaginting-code&theme=transparent&border=C4D696&ring=6B881F&fire=6B881F&currStreakLabel=556B14&currStreakNum=556B14&sideNums=55554E&sideLabels=55554E&dates=737373" width="98%" alt="GitHub Streak" />
+  <!-- Dynamic Real-time Activity Graph in Matcha Palette -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felichpehagasaginting-code&bg_color=FAFFEB&color=556B14&line=6B881F&point=2B380B&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 <br/>
