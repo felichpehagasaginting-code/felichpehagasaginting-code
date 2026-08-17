@@ -2,14 +2,14 @@
 
 <!-- GLITCH CYBERPUNK NAME HEADER (REAL RGB GLITCH ANIMATION) -->
 <a href="https://felich-dev.vercel.app">
-  <img src="https://raw.githubusercontent.com/felichpebagasaginting-code/felichpebagasaginting-code/main/assets/glitch-felich.svg" onerror="this.onerror=null; this.src='https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,9,11,15,20,24,26,30&height=200&section=header&text=%E2%9A%A1%20FELICH%20%E2%9A%A1&fontSize=52&fontColor=00f5d4&animation=twinkling&fontAlignY=42';" width="100%" alt="Glitch Felich" />
+  <img src="https://raw.githubusercontent.com/felichpehagasaginting-code/felichpehagasaginting-code/main/assets/glitch-felich.svg" width="100%" alt="Glitch Felich" />
 </a>
 
 <!-- CUTE AI ROBOT COMPANIONS -->
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="95px" alt="Claude Bot" /><br/>
+      <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="95px" alt="Claude Code" /><br/>
       <b>🤖 Claude Code</b><br/>
       <sub><i>"Analyzing data..."</i></sub>
     </td>
@@ -19,7 +19,7 @@
       <sub><i>"Edge AI Online!"</i></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="95px" alt="Codex Bot" /><br/>
+      <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="95px" alt="Codex Code" /><br/>
       <b>🧠 Codex Code</b><br/>
       <sub><i>"Compiling systems..."</i></sub>
     </td>
@@ -28,30 +28,30 @@
 
 <!-- TAGLINE -->
 <p align="center">
-  <b>⚡ Software & Applied AI Engineer • Agri-Tech • BPDP Scholar ⚡</b>
+  <b>🌿 Software & Applied AI Product Engineer • Agri-Tech • BPDP Scholar 🌿</b>
 </p>
 
 <!-- CTA BUTTON TO PORTFOLIO -->
 <p align="center">
   <a href="https://felich-dev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_EXPLORE_FULL_PORTFOLIO_&_CASE_STUDIES-felich.dev-00f5d4?style=for-the-badge&logo=safari&logoColor=black&labelColor=0a0a14" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🚀_EXPLORE_FLAGSHIP_WORK-felich.dev-556B14?style=for-the-badge&logo=safari&logoColor=white&labelColor=2B380B" alt="Portfolio" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/felich-pehagasa-ginting-11aba42a9" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-556B14?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/fel.comp" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-6B881F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:felichpebagasaginting@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-4A5D12?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<!-- ANIMATED LIGHTNING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- ANIMATED LIGHTNING / WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6B881F,50:C4D696,100:6B881F&height=4&section=header" width="100%" />
 
 </div>
 
@@ -66,9 +66,9 @@
 
 <br/>
 
-<!-- ANIMATED LIGHTNING DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6B881F,50:C4D696,100:6B881F&height=4&section=header" width="100%" />
 </div>
 
 ## 🚀 Highlighted Systems
@@ -78,16 +78,16 @@
     <td width="50%">
       <h3 align="center">🌴 Edge AI Palm Oil Grading</h3>
       <p align="center">
-        <a href="https://github.com/felichpebagasaginting-code/Edge_AI_PalmOil">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=felichpebagasaginting-code&repo=Edge_AI_PalmOil&theme=tokyonight&border_color=00f5d4&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4" width="100%" />
+        <a href="https://github.com/felichpehagasaginting-code/Edge_AI_PalmOil">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=felichpehagasaginting-code&repo=Edge_AI_PalmOil&theme=material-palenight&border_color=C4D696&bg_color=FAFFEB&title_color=556B14&icon_color=6B881F&text_color=55554E" width="100%" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🚜 Estate Harvest Rotation Planner</h3>
       <p align="center">
-        <a href="https://github.com/felichpebagasaginting-code/Estate-Harvest-Rotation-Planner">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=felichpebagasaginting-code&repo=Estate-Harvest-Rotation-Planner&theme=tokyonight&border_color=38bdf8&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" width="100%" />
+        <a href="https://github.com/felichpehagasaginting-code/Estate-Harvest-Rotation-Planner">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=felichpehagasaginting-code&repo=Estate-Harvest-Rotation-Planner&theme=material-palenight&border_color=C4D696&bg_color=FAFFEB&title_color=556B14&icon_color=6B881F&text_color=55554E" width="100%" />
         </a>
       </p>
     </td>
@@ -96,16 +96,16 @@
     <td width="50%">
       <h3 align="center">💻 Pemrograman TRPL</h3>
       <p align="center">
-        <a href="https://github.com/felichpebagasaginting-code/PemrogramanTRPL">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=felichpebagasaginting-code&repo=PemrogramanTRPL&theme=tokyonight&border_color=a855f7&bg_color=0d1117&title_color=a855f7&icon_color=a855f7" width="100%" />
+        <a href="https://github.com/felichpehagasaginting-code/PemrogramanTRPL">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=felichpehagasaginting-code&repo=PemrogramanTRPL&theme=material-palenight&border_color=C4D696&bg_color=FAFFEB&title_color=556B14&icon_color=6B881F&text_color=55554E" width="100%" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">⚡ Flight Tracker</h3>
       <p align="center">
-        <a href="https://github.com/felichpebagasaginting-code/FlightTracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=felichpebagasaginting-code&repo=FlightTracker&theme=tokyonight&border_color=eab308&bg_color=0d1117&title_color=eab308&icon_color=eab308" width="100%" />
+        <a href="https://github.com/felichpehagasaginting-code/FlightTracker">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=felichpehagasaginting-code&repo=FlightTracker&theme=material-palenight&border_color=C4D696&bg_color=FAFFEB&title_color=556B14&icon_color=6B881F&text_color=55554E" width="100%" />
         </a>
       </p>
     </td>
@@ -114,19 +114,12 @@
 
 ---
 
-## ⚡ Activity & Trophies
+## 🌿 Activity & Metrics
 
 <div align="center">
-  <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=felichpebagasaginting-code&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin_w=15" alt="Trophies" />
-  </a>
-
-  <br/><br/>
-
-  <!-- GitHub Stats & Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api?username=felichpebagasaginting-code&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&title_color=00F5D4&icon_color=00F5D4&text_color=94a3b8&bg_color=0d1117" width="48.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felichpebagasaginting-code&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=00F5D4&text_color=94a3b8&bg_color=0d1117" width="48.5%" />
+  <!-- GitHub Stats & Top Langs in Vanilla Matcha Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=felichpehagasaginting-code&show_icons=true&hide_border=false&border_radius=10&border_color=C4D696&title_color=556B14&icon_color=6B881F&text_color=55554E&bg_color=FAFFEB" width="48.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felichpehagasaginting-code&layout=compact&hide_border=false&border_radius=10&border_color=C4D696&title_color=556B14&text_color=55554E&bg_color=FAFFEB" width="48.5%" />
 </div>
 
 <br/>
@@ -135,9 +128,9 @@
 
 <div align="center">
 
-<!-- FOOTER WITH ANIMATED WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,9,11,15,20,24,26,30&height=120&section=footer" width="100%" />
+<!-- FOOTER WITH ANIMATED MATCHA WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAF4CE,50:8AA82A,100:556B14&height=120&section=footer" width="100%" />
 
-### 🌐 [Explore interactive 3D demos & full case studies on felich.dev](https://felich-dev.vercel.app) ⚡
+### 🌿 [Explore interactive 3D demos & full case studies on felich.dev](https://felich-dev.vercel.app) 🚀
 
 </div>
